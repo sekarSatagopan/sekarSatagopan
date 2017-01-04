@@ -1,4 +1,4 @@
-function welcome() {
-	var a = "Welcome to Book My Movie";
+function bookingStatus() {
+	var a = "Ticket Booked";
 	console.log(a);
 }
